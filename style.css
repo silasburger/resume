@@ -1,0 +1,62 @@
+    * {
+      font-family: sans-serif;
+      color: #333;
+    }
+
+    .divider {
+      font-weight: bold;
+      color: #666;
+    }
+
+    .info {
+      font-weight: bold;
+      color: #666;
+    }
+
+    #silas-burger {
+      font-weight: lighter;
+      font-size: 36px;
+    }
+
+    .section-header {
+      margin: 0;
+    }
+
+    hr {
+      border: solid 1px #333;
+    }
+
+    p {
+      margin: 0;
+      line-height: 18px;
+    }
+
+    .top-item {
+      margin-bottom: 5px;
+    }
+
+    ul {
+      margin-top: 5px;
+    }
+
+    li {
+      margin: 5px 0;
+      line-height: 20px;
+    }
+
+    .ul-header {
+      margin-bottom: 5px;
+    }
+
+    hr {
+      margin: 10px 0;
+    }
+
+    .organization {
+      font-size: 14px;
+      margin-left: 10px;
+    }
+
+    .contact {
+      margin: 8px 0;
+    }
