@@ -3,6 +3,10 @@
       color: #333;
     }
 
+    a {
+      color: #666;
+    }
+
     .divider {
       font-weight: bold;
       color: #666;
@@ -42,6 +46,7 @@
     li {
       margin: 5px 0;
       line-height: 20px;
+      font-size: 18px;
     }
 
     .ul-header {
@@ -59,4 +64,10 @@
 
     .contact {
       margin: 8px 0;
+    }
+
+    .educational-skills {
+      display: grid;
+      grid-template-rows: ;
+      grid-template-columns: ;
     }
